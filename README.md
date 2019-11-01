@@ -1,7 +1,7 @@
 # gagaga
 
-####Project Console: https://console.firebase.google.com/project/gagaga-48b10/overview  
-####Hosting URL: https://gagaga-48b10.firebaseapp.com
+#### Project Console: https://console.firebase.google.com/project/gagaga-48b10/overview  
+#### Hosting URL: https://gagaga-48b10.firebaseapp.com
 
 
 https://angular.io/start  
